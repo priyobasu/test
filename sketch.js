@@ -17,6 +17,7 @@ function setup(){
 
 function draw(){
     background(0);
+    //hello everyone mike testing
     Engine.update(engine);
     console.log(box2.body.position.x);
     console.log(box2.body.position.y);
